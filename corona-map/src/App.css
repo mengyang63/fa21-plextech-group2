@@ -1,3 +1,7 @@
-.App {
+/* .App {
   height: 200px;
+} */
+.App {
+  width: 100vw;
+  height: 100vh;
 }

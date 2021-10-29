@@ -2,6 +2,7 @@ import './App.css';
 import { Component } from 'react';
 import Button from './components/Button';
 
+<<<<<<< HEAD
 export default class App extends Component {
   constructor() {
     super();
@@ -43,6 +44,12 @@ export default class App extends Component {
         title = { "-" }
         task = { () => this.decrementCount() }
       />
+=======
+function App() {
+  return (
+    <div className="App">
+      
+>>>>>>> e811351528233adb8e7cee8305e084ee47c0ccd3
     </div>
     );
    }
